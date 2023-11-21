@@ -1,4 +1,5 @@
 # project_euler
+<<<<<<< HEAD
 
 my <a href="https://projecteuler.net/archives">project_euler</a> solved problems in python
 
@@ -84,3 +85,6 @@ my <a href="https://projecteuler.net/archives">project_euler</a> solved problems
                 </a>
         </li>
 </ul
+=======
+my project_euler solved problems
+>>>>>>> c13ed18b1bb6367c081411ec9a794d27fcbff7b2
