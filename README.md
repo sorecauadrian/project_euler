@@ -78,10 +78,14 @@ my <a href="https://projecteuler.net/archives">project_euler</a> solved problems
                     :file_folder: 15 - lattice paths
                 </a>
         </li>
+	<li>
+		<a href="https://github.com/sorecauadrian/project_euler/tree/master/16">
+                    :file_folder: 16 - power digit sum
+                </a>
+        </li>
         <li>
 		<a href="https://github.com/sorecauadrian/project_euler/tree/master/17">
                     :file_folder: 17 - number letter counts
                 </a>
         </li>
-</ul
-
+</ul>
