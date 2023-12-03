@@ -88,4 +88,14 @@ my <a href="https://projecteuler.net/archives">project_euler</a> solved problems
                     :file_folder: 17 - number letter counts
                 </a>
         </li>
+	<li>
+		<a href="https://github.com/sorecauadrian/project_euler/tree/master/20">
+                    :file_folder: 20 - factorial digit sum
+                </a>
+        </li>
+        <li>
+		<a href="https://github.com/sorecauadrian/project_euler/tree/master/21">
+                    :file_folder: 21 - amicable numbers
+                </a>
+        </li>
 </ul>
